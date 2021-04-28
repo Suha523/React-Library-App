@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Library-app/static/css/main.bd18592d.chunk.css",
+    "main.js": "/React-Library-app/static/js/main.d63a0499.chunk.js",
+    "main.js.map": "/React-Library-app/static/js/main.d63a0499.chunk.js.map",
+    "runtime-main.js": "/React-Library-app/static/js/runtime-main.b56ce2fd.js",
+    "runtime-main.js.map": "/React-Library-app/static/js/runtime-main.b56ce2fd.js.map",
+    "static/js/2.a4862cbb.chunk.js": "/React-Library-app/static/js/2.a4862cbb.chunk.js",
+    "static/js/2.a4862cbb.chunk.js.map": "/React-Library-app/static/js/2.a4862cbb.chunk.js.map",
+    "index.html": "/React-Library-app/index.html",
+    "static/css/main.bd18592d.chunk.css.map": "/React-Library-app/static/css/main.bd18592d.chunk.css.map",
+    "static/js/2.a4862cbb.chunk.js.LICENSE.txt": "/React-Library-app/static/js/2.a4862cbb.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/React-Library-app/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/libraryHeader.css": "/React-Library-app/static/media/pexels-pixabay-159711.aa7283a5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b56ce2fd.js",
+    "static/js/2.a4862cbb.chunk.js",
+    "static/css/main.bd18592d.chunk.css",
+    "static/js/main.d63a0499.chunk.js"
+  ]
+}
